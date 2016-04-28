@@ -1,6 +1,6 @@
 {
   "name": "ember-topojson",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Ember CLI addon to include TopoJSON as an ES6 module in your app.",
   "directories": {
     "doc": "doc",
